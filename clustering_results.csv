@@ -1,0 +1,5 @@
+Cluster,Setosa,Versicolor,Virginica,Total
+Cluster 1,0,3,36,39
+Cluster 2,0,47,14,61
+Cluster 3,50,0,0,50
+Total,50,50,50,150
