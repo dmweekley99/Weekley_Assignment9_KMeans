@@ -197,7 +197,7 @@ public class KMeans {
     public static void main(String[] args) {
         // Load the iris dataset from a file
         List<Iris> data = readData("./iris.txt");
-        int k = 3;  // Number of clusters 
+        int k = 3;  // Number of clusters
         // Initialize centroids randomly from the data
         List<Centroid> centroids = initializeCentroids(data, k);
 
